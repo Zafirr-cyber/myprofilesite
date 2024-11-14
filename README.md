@@ -1,8 +1,9 @@
-## Nom du projet
+# NAME OF PROJECT
+profile website
 
 
-# description
-
+# DESCRIPTION
+Personal website repository featuring my background, projects, and insights into technology and IoT security. A digital space for sharing my journey and connecting with like-minded professionals.
 
 # Couleur du site utilisé : 
  - #BA1B1D (rouge)
